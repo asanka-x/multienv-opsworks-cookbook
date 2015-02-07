@@ -1,6 +1,6 @@
 name             'multienv-opsworks-cookbook'
-maintainer       'YOUR_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'Asanka Nissanka'
+maintainer_email 'asankanissanka@gmail.com'
 license          'All rights reserved'
 description      'Installs/Configures multienv-opsworks-cookbook'
 long_description 'Installs/Configures multienv-opsworks-cookbook'
